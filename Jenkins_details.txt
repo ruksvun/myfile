@@ -1,0 +1,19 @@
+jenkins key - 86659d7f524346fdaa79211bb874a494
+
+Admin details
+
+username : Lokireddy
+pwd : S@chin200
+
+
+D:\Jenkins\jenkins.war
+
+192.168.43.109
+
+
+C:\Program Files\Java\jdk1.8.0_251\bin
+
+C:\Program Files\apache-maven-3.8.1\bin
+
+/html/body/div[2]/div/div/div/div/div[2]/div/form/div[1]/input
+
